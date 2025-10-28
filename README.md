@@ -1,2 +1,3 @@
 # ML-Concepts
 This repository contains a few machine learning concepts, a little explanation and alot of code
+covering concepts like linear-regression, logitic regression, classification and more...
